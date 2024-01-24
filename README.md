@@ -13,3 +13,6 @@
       2.3 plot_ion 绘制粒子图
       2.4 plot_potential_contourf绘制电势分布图
       2.5 potential_mean计算中值电势
+3.书籍
+
+      3.1链接：https://pan.baidu.com/s/1ehHkNyg7mjXs7pglMQeD2A，提取码：duzn
