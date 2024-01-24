@@ -1,6 +1,7 @@
 # Vsim_apply
 1.算例
 
+      1.0 下载（链接：https://pan.baidu.com/s/1OOUA-8L5nbV4kcoWvMoq-A 提取码：duzn）
       1.1 初始网格设置：维度，空间尺寸，时间步，存储
       1.2 边界条件设置
       1.3 电场条件按设置
